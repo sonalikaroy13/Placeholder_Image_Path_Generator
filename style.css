@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 700px;
+    margin: auto;
+    border: 2px solid #fff;
+    color: aliceblue;
+    background-color: black;
+    font-family: cursive;
+    font-size: 16px;
+}
+
+.header{
+    background-color: steelblue;
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+h1{
+    font-family: Algerian;
+    color: #0c0c8d;
+    line-height: 50px;
+    word-spacing: 5px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+h4{
+    color: aliceblue;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+p{
+    margin-left: 15px;
+}
+
+select{
+    height: 30px;
+    width: 100px;
+    color: blue;
+    margin: 5px;
+}
+
+#text {
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+input{
+    height: 40px;
+    width: 40px;
+    color: red;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+img{
+    margin: 10px;
+}
+
+textarea{
+    margin-left: 10px;
+}
